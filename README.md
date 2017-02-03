@@ -1,2 +1,2 @@
 # laziness
-A code generator to code reuse
+A polyglot code generator to code reuse.
